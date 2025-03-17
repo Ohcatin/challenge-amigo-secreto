@@ -10,3 +10,6 @@ Este es un pequeño juego web para realizar un sorteo de Amigo Secreto. Permite 
 - Seleccionar un nombre aleatoriamente como Amigo Secreto.
 - Interfaz sencilla y fácil de usar.
 
+## 📸 Captura de Pantalla
+
+![Vista previa del juego](assets/ejemplo-juego.png)
