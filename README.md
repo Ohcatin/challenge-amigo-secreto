@@ -14,8 +14,8 @@ Este es un pequeño juego web para realizar un sorteo de Amigo Secreto. Permite 
 
 ## 📸 Captura de Pantalla
 
-![Vista previa del juego](challenge-amigo-secreto/assets/ejemplo-juego.png)
+![Vista previa del juego](assets/ejemplo-juego.png)
 
-\## 📁 Acceso al proyecto
+## 📁 Acceso al proyecto
 
-[Página directo a "amigo secreto"](https://ohcatin.github.io/challenge-amigo-secreto/)
+[Enlace directo a "amigo secreto"](https://ohcatin.github.io/challenge-amigo-secreto/)
