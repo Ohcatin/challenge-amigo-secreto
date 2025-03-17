@@ -12,4 +12,4 @@ Este es un pequeño juego web para realizar un sorteo de Amigo Secreto. Permite 
 
 ## 📸 Captura de Pantalla
 
-![Vista previa del juego](challenge-amigo-secreto_esp-main\assets\ejemplo-juego.png)
+![Vista previa del juego](challenge-amigo-secreto_esp-main/assets/ejemplo-juego.png)
